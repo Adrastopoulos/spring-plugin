@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.springframework.plugin.boot.autoconfigure;
+package org.springframework.plugin.autoconfigure;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

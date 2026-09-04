@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<artifactId>spring-plugin-spring-boot</artifactId>
+	<artifactId>spring-plugin-autoconfigure</artifactId>
 
-	<name>Spring Plugin - Spring Boot</name>
-	<description>Spring Boot integration for Spring Plugin</description>
+	<name>Spring Plugin - Autoconfigure</name>
+	<description>Spring Boot auto-configuration for Spring Plugin</description>
 
 	<parent>
 		<groupId>org.springframework.plugin</groupId>
@@ -14,7 +14,7 @@
 	</parent>
 
 	<properties>
-		<java-module-name>spring.plugin.boot</java-module-name>
+		<java-module-name>spring.plugin.autoconfigure</java-module-name>
 	</properties>
 
 	<build>

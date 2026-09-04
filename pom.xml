@@ -40,7 +40,7 @@
 
 	<modules>
 		<module>core</module>
-		<module>spring-plugin-spring-boot</module>
+		<module>spring-plugin-autoconfigure</module>
 	</modules>
 
 	<properties>
